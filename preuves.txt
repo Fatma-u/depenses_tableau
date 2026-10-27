@@ -1,0 +1,16 @@
+J06 — Preuve d’exécution
+
+Commande réellement lancée dans Windows PowerShell :
+node .\depenses.js
+
+Résultat aprés exécution du code :
+
+Analyse des dépenses
+le total :14500
+Moyenne:2071.4285714285716
+Les dépenses strictement supérieures à 2000FCFA:2500,4000,2500,3000
+Le maximum du tableau:4000
+Le tableau trié: 0,1000,1500,2500,2500,3000,4000
+Le tableau initial: 1500,2500,0,4000,1000,2500,3000
+
+
